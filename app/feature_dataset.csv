@@ -1,0 +1,7 @@
+label,avg_sentence_length,sentence_variance,lexical_diversity,readability_score,entropy,word_count
+HUMAN,25.0,0.0,0.957,22.28,4.5253,23
+HUMAN,23.0,0.0,1.0,47.12,4.6912,21
+HUMAN,10.5,2.25,1.0,106.9,4.7703,18
+AI,8.0,52.67,0.955,74.84,4.7593,22
+AI,12.5,72.25,0.958,66.64,4.8231,24
+AI,10.0,81.0,1.0,75.5,4.6618,20
