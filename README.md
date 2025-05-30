@@ -42,7 +42,7 @@ verdict-ai/
 
 bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/verdict-ai.git
+git clone https://github.com/neuron-cloud/verdict-ai.git
 cd verdict-ai
 
 # 2. Install dependencies
