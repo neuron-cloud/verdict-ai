@@ -59,5 +59,5 @@ Web interface for live verdicts
 Model explainability dashboard
 
 ## 🧠 Author
-Built by Myke Delgardo as part of a personal AI/ML portfolio.
+Built by Mychael Delgardo as part of a personal AI/ML portfolio.
 Let’s build smarter tools that think with us, not for us.
