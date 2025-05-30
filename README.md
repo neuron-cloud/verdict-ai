@@ -40,7 +40,7 @@ verdict-ai/
 
 ## 📦 Getting Started
 
-```bash
+bash
 # 1. Clone the repo
 git clone https://github.com/YOUR_USERNAME/verdict-ai.git
 cd verdict-ai
@@ -51,11 +51,13 @@ pip install -r requirements.txt
 # 3. Train the model
 python3 app/train_model.py
 
+## 🔮 Coming Soon
 predict_sentence.py – CLI or Colab tool to test new sentences
 
 Web interface for live verdicts
 
 Model explainability dashboard
 
+## 🧠 Author
 Built by Myke Delgardo as part of a personal AI/ML portfolio.
 Let’s build smarter tools that think with us, not for us.
